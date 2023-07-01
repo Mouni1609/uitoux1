@@ -1,0 +1,38 @@
+
+.menu-section-heading {
+    
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+
+.da-img{
+    height:250px;
+    width:250px;
+}
+.text1{
+    font-size: 20px;
+}
+.text2{
+    font-size: 20px;
+    font-weight: bold;
+}
+.text{
+    font-size: 15px;
+    color:gray;
+}
+
+  .checked{
+    color: orange;
+  }

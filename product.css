@@ -1,0 +1,25 @@
+.da-img{
+    height:100px;
+    width:100px;
+}
+.text1{
+    font-size: 15px;
+}
+.text2{
+    font-size: 15px;
+}
+.text{
+    font-size: 10px;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .checked{
+    color: orange;
+  }
+  .product-heading{
+    font-size: 30px;
+  }

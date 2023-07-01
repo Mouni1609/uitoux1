@@ -1,0 +1,83 @@
+.home-container{
+    background-image:url(/slide-1.jpeg);
+    background-size:cover;
+    width:200%;
+    height:500px;
+    background-position:center;
+}
+.home-offer{
+    background-color: rgb(255, 218, 6);
+    
+}
+.home-heading{
+    font-weight: bold;
+    
+}
+.home-button{
+    width:150px;
+    height:50px;
+    background-color: aqua;
+    border-width: 0px;
+    border-color: aqua;
+    color:white;
+}
+
+
+
+
+.brand-img{
+    filter: grayscale(100%);
+}
+.brand-heading{
+    color:gray;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+.menu-section-heading {
+    
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+
+.da-img{
+    height:250px;
+    width:250px;
+}
+.text1{
+    font-size: 20px;
+}
+.text2{
+    font-size: 20px;
+    font-weight: bold;
+}
+.text{
+    font-size: 15px;
+    color:gray;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .checked{
+    color: orange;
+  }

@@ -1,0 +1,7 @@
+.brand-img{
+    filter: grayscale(100%);
+}
+.brand-heading{
+    color:gray;
+    font-size: 10px;
+}
